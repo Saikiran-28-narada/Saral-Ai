@@ -53,4 +53,4 @@ The prototype can later connect to:
 - A real SMS gateway
 
 ## Team
-Saral AI project team
+Saral AI project team - sai kiran , rahul , keshav
