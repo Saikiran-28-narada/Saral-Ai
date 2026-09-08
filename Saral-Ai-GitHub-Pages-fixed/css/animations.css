@@ -1,8 +1,0 @@
-/* ===== ANIMATIONS =====
-   Note: no continuous logo/shake animations — the "Saral AI" name stays still
-   so it never distracts the user. Only feedback animations remain. */
-@keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
-@keyframes popIn{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:scale(1)}}
-@keyframes scanMove{0%,100%{top:12%}50%{top:86%}}
-@keyframes wave{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1.2)}}
-@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
